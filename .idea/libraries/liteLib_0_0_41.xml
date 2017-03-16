@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="liteLib-0.0.41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.fanyu2013/liteLib/0.0.41/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.fanyu2013/liteLib/0.0.41/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
